@@ -84,7 +84,7 @@ class MainController extends Controller
         ]);
 
         $payload = [
-          "key"  => "0bjYg61rIQ6txJ741sAzmDnuXh3eTTVcbuUuGYcDeYC7WPaGfKQ9UyMs0t98",
+          "key"  => "Enter you API key here",
           "prompt" => $request->prompt,
           "negative_prompt" => "bad quality",
           "width" => "512",
